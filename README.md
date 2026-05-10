@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Mayoka!&fontSize=70" width="100%" />
+  <img src="https://img.shields.io/badge/Mayoka-Profile-3776AB?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </div>
+
+<h1 align="center">Hi there, I'm Mayoka! 👋</h1>
 
 ### <div align="center">"Coding like it's 2050, but debugging like it's 1999." 🚀</div>
 
@@ -9,7 +11,7 @@
     <img src="https://img.shields.io/badge/Website-mayoka.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://x.com/mayoka0">
-    <img src="https://img.shields.io/badge/X-@mayoka0-black?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@mayoka0-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
@@ -43,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayoka0&show_icons=true&theme=radical" alt="Mayoka's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=mayoka0&show_icons=true&theme=radical" alt="Mayoka's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoka0&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
