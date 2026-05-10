@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=Hi%20there,%20I'm%20Mayoka!&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Mayoka!&fontSize=70" width="100%" />
 </div>
 
 ### <div align="center">"Coding like it's 2050, but debugging like it's 1999." 🚀</div>
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Website-mayoka.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://x.com/mayoka0">
-    <img src="https://img.shields.io/badge/X-@mayoka0-black?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@mayoka0-black?style=for-the-badge&logo=X&logoColor=white" />
   </a>
 </p>
 
