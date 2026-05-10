@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Mayoka!&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=Hi%20there,%20I'm%20Mayoka!&fontSize=70" width="100%" />
 </div>
 
 ### <div align="center">"Coding like it's 2050, but debugging like it's 1999." 🚀</div>
@@ -58,5 +58,9 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayoka0/mayoka0/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayoka0/mayoka0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayoka0/mayoka0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mayoka0/mayoka0/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
