@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=mayoka0&show_icons=true&theme=radical" alt="Mayoka's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoka0&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mayoka0&show_icons=true&theme=radical" alt="Mayoka's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mayoka0&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
