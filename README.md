@@ -53,17 +53,17 @@ The **Neon Surge Ecosystem** is a decentralized game engine powered by a network
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mayoka0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff" height="180px" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mayoka0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff&v=2" height="180px" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff" height="180px" alt="Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff&v=2" height="180px" alt="Langs" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoka0&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7" width="70%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoka0&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&v=2" width="70%" alt="Streak" />
 </p>
 
 ---
