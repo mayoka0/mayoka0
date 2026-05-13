@@ -1,61 +1,66 @@
-# <p align="center">MAYOKA0 | SYSTEM ARCHITECT & GAME DEVELOPER</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D1FF&height=200&section=header&text=MAYOKA0&fontSize=70&fontAlignY=40&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=System+Architect;Game+Engine+Developer;Full-Stack+Engineer" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=System+Architect;Game+Engine+Developer;Full-Stack+Engineer;Cyber+Security+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayoka0&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### ⚡ Professional Summary
-I specialize in the design and implementation of **high-performance modular systems**. My recent masterpiece, **Neon Surge**, is a distributed 3D game ecosystem powered by 10 specialized autonomous agents. I bridge the gap between complex low-level physics and immersive high-level visual experiences.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayoka0&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=radical&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayoka0&theme=radical&no-frame=true&column=8&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🛠️ Core Technology Stack
-<p align="center">
+### 🚀 About Me
+I am a **Systems Architect** and **Game Engine Developer** dedicated to building modular, high-performance digital ecosystems. My work focuses on bridging the gap between low-level technical precision and high-level immersive design.
+
+- 🔭 **Current Focus:** Leading the **Neon Surge** multi-agent game engine development.
+- ⚡ **Expertise:** Modular Architecture, 3D Physics (Three.js), and Distributed Systems.
+- 🛠️ **Strategy:** Automation-first development with a focus on scalability and clean code.
+
+---
+
+### 💻 Technical Arsenal
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,threejs,vite,html,css,svelte,bash,linux,git,github,githubactions,vscode&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,threejs,vite,html,css,svelte,bash,linux,git,github,githubactions,vscode&perline=8" alt="My Skills" />
   </a>
+</div>
+
+---
+
+### 📊 Vital Statistics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mayoka0&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff" height="180px" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoka0&layout=compact&theme=radical&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff" height="180px" alt="Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoka0&theme=radical&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="70%" alt="Streak" />
 </p>
 
 ---
 
-### 🌌 Major Architecture: Neon Surge
-The Neon Surge project demonstrates a sophisticated multi-repo, agent-based architecture.
-
-| Component | Responsibility | Agent Persona |
-| :--- | :--- | :--- |
-| **[Core Engine](https://github.com/mayoka0/core-engine)** | Visual Rendering & Post-Processing | **Atlas** |
-| **[Physics System](https://github.com/mayoka0/physics-system)** | Swept-Sphere & Gravitational Math | **Vortex** |
-| **[Audio System](https://github.com/mayoka0/audio-system)** | Procedural Synthwave & Spatial Sound | **Aura** |
-| **[Game Logic](https://github.com/mayoka0/game-logic)** | Master State Machine & Orchestration | **Nexus** |
+### 🐍 Contribution Flow
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayoka0/mayoka0/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+</div>
 
 ---
 
-### 📈 Activity Metrics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoka0&theme=radical&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" alt="Streak Stats" width="80%" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayoka0&color=00D1FF&style=for-the-badge&label=PORTFOLIO+VIEWS" alt="Views" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayoka0/mayoka0/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayoka0&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-</p>
-
-<p align="center">
-  <i>"Crafting Digital Realities through Engineered Precision."</i>
+  <i>"Code is the architecture of the future. Build it with precision."</i>
 </p>
