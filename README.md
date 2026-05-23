@@ -42,6 +42,17 @@
 
 ---
 
+### 🏆 Showcase Projects
+
+Here are some of the best projects I've been working on:
+
+- [**todo-app**](https://github.com/mayoka0/todo-app): A beautifully designed and fully responsive web-based Todo App.
+- [**hearth-and-hex**](https://github.com/mayoka0/hearth-and-hex): A strategic tabletop/digital crossover game with rich narrative logic.
+- [**pydantic-ai**](https://github.com/mayoka0/pydantic-ai): AI Agent Framework that allows strong typing and complex logic parsing.
+- [**master-portal**](https://github.com/Mayoka-Inc/master-portal): The central dashboard application built with Vite for our organization.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
