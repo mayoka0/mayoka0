@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mayoka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C7CE7&center=true&vCenter=true&width=520&lines=Software+Developer;Open-Source+Contributor;AI+%26+Web+Development" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C7CE7&center=true&vCenter=true&width=520&lines=Software+Developer;Open-Source+Contributor;Python+%26+Next.js" alt="typing" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### About
 
-Developer working across **AI** and **web development**, mostly in **Python** and **Next.js**.
+Developer focused on **web development**, mostly in **Python** and **Next.js**.
 I like clean code and contributing to open-source projects in the Python ecosystem.
 
-- 🔭 Building AI-powered web apps with Next.js
+- 🔭 Building web apps with Next.js
 - 🌱 Contributing to open-source Python projects
 - 🐧 Linux user
 - 📫 [mayoka.dev](https://mayoka.dev) &nbsp;·&nbsp; [@mayoka0](https://x.com/mayoka0)
